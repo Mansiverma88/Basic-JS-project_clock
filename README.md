@@ -29,7 +29,7 @@ List the ready features here:
 ## Project Status
 Project is: _complete_ 
 
-## Hosted using frebase
+## Hosted using Firebase
 Site link: https://jsclock-b98d0.web.app
 
 
