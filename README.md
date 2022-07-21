@@ -29,7 +29,8 @@ List the ready features here:
 ## Project Status
 Project is: _complete_ 
 
-
+## Hosted using frebase
+Site link: https://jsclock-b98d0.web.app
 
 
 <!-- Optional -->
